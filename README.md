@@ -3,7 +3,7 @@ Reverse engineered Diablo II launcher and source code precursor
 
 ## About
 
-This was my first reverse engineered C code project. In this repo you will find the source code to `Game.exe` for Diablo II version 1.00.
+This was my first reverse engineered C code project. In this repo you will find the source code to `Game.exe` for Diablo II version 1.00. The empty folders and names are correct based on assertion strings from the game.
 
 It can be assembled with Visual Studio 6 and will produce a binary exact executable.
 
